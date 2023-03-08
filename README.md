@@ -3,4 +3,4 @@
 This is a personal notebook for the python libraries that i learn.
 It is written in pure html.
 
-there is also a newer  version of this notebook.
+There is also a newer  version of this notebook. If you are going to use this one, I highly recommend you to check out the newer version.
